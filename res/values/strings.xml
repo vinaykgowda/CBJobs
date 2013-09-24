@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CB Jobs</string><string name="srchkeyword">Keyword</string><string name="srchLoc">Location</string><string name="txtsubmit">submit</string>
+    <style name="Theme.Default" parent="@android:style/Theme"></style>
+    <style name="Theme.NoTitle" parent="@android:style/Theme.NoTitleBar"></style>
+    <style name="Theme.FullScreen" parent="@android:style/Theme.NoTitleBar.Fullscreen"></style>
+</resources>
